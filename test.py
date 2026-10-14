@@ -1,1 +1,3 @@
+KKA = ELEK
+
 print ("KKA")
