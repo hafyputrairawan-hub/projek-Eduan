@@ -1,3 +1,3 @@
 KKA = ELEK
-hafidz
+hafidz COOL
 print ("KKA")
